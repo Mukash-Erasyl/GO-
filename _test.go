@@ -1,5 +1,3 @@
-// В файле reverse_test.go
-
 package strutils
 
 import "testing"
